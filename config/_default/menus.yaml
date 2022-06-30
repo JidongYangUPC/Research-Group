@@ -7,15 +7,24 @@ main:
   - name: Tour
     url: tour
     weight: 10
-  - name: News
-    url: post
-    weight: 20
   - name: People
     url: people
-    weight: 30
+    weight: 12
+  - name: News
+    url: post
+    weight: 15
+  - name: Research
+    url: research
+    weight: 16
+  - name: Research2
+    url: research2
+    weight: 17
   - name: Events
     url: event
-    weight: 40
+    weight: 20
+  - name: Datasets
+    url: datasets
+    weight: 30
   - name: Publications
     url: publication
     weight: 50
