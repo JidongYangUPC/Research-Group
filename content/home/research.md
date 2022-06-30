@@ -14,7 +14,7 @@ subtitle: ''
 
 content:
   # Page type to display. E.g. project.
-  page_type: researchs
+  page_type: research
 
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
   filter_default: 0
