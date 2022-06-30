@@ -16,9 +16,9 @@ design:
   columns: '1'
 ---
 
----
-### PhD students
+#### PhD students
 
+---
 Jiaxing Sun
 
 Yiwei Tian
@@ -27,7 +27,11 @@ Weiqi Wang
 
 Chong Zhao
 
-### Graduate students
+<br/>
+
+#### Graduate students
+
+---
 
 Kevin Mba
 
@@ -45,16 +49,23 @@ Fan Yan
 
 Pengfei Wang
 
-### Undergraduate students
+<br/>
+
+#### Undergraduate students
+
+---
 
 Xuaohao Chen
 
 Kunpeng Yu
 
----
 
-### Openings
 
-We are looking for qualified students with strong motivation on seismology and geophysics. Please feel free to contact Dr. Hejun Zhu (hejun.zhu@utdallas.edu) if you have any questions about Ph.D. application at UT Dallas.
 
----
+
+<br/>
+
+## Openings
+
+We are looking for qualified students with strong motivation on seismology and geophysics. Please feel free to contact Dr. Jidong Yang ([jidong.yang@upc.edu.cn](mailto:jidong.yang@upc.edu.cn)) if you have any questions about Ph.D. application at China University of Petroleum.
+
