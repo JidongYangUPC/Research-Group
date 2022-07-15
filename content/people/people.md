@@ -16,7 +16,7 @@ design:
   columns: '1'
 ---
 
-### Group
+### Group Members
 
 #### Doctoral students
 ---
