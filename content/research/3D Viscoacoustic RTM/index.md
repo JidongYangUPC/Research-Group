@@ -11,7 +11,7 @@ doi: "10.1190/geo2018-0050.1"
 # Schedule page publish date (NOT publication's date).
 publishDate: "2018-11-07"
 
-weight: 30
+weight: 100
 
 # Publication name and optional abbreviated publication name.
 publication: Geophysics

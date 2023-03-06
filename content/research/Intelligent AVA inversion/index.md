@@ -3,14 +3,16 @@ title: "Intelligent AVA inversion"
 subtitle: Intelligent AVA inversion using a convolution neural network trained with pseudo-well data sets
 summary: To mitigate the problem of sparse well locations in AVA inversion, we present a convolution neural network (CNN) trained by pseudo-well logs.   
 authors:
+- Jiaxing Sun
 - Jidong Yang
 
+doi: "10.1007/s10712-022-09766-5"
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-05-14"
+publishDate: "2023-01-30"
 
 tags: [Deep-Learning]
 
-weight: 100
+weight: 50
 # Display this page in the Featured widget?
 featured: false
 
@@ -47,3 +49,6 @@ projects:
 ---
 
 The amplitude-variation-with-angle (AVA) inversion for seismic data has been widely used in hydrocarbon detection of exploration seismology. Traditional AVA analysis estimates the elastic parameters, i.e., P-wave velocity, S-wave velocity and density, using the AVA intercept, gradient, and higher-order AVA terms by solving either a linear or nonlinear inverse problem. Recently, the deep learning has been introduced to the AVA inversion to describe the complicated nonlinear relation between seismic data and elastic parameters. But because of sparse well locations, the application of deep-learning based AVA inversion is limited by few well-log label sets in production. To mitigate this problem, we present a convolution neural network (CNN) trained by pseudo-well data for AVA inversion. By considering spatial correlation and cross-correlation of elastic parameters, we first generate a large number of realistic pseudo-well logs. Then, the angle-domain common-image gathers are computed as source wavelet convolved with reflectivity series, and then are used to train a CNN to predict elastic parameters. Numerical tests for both synthetic and field data demonstrate that the pseudo-well based CNN AVA inversion not only can accurately and efficiently estimate P-wave velocity, S-wave velocity and density, but also has a potential to alleviate the inter-parameter crosstalk artifacts, in comparison with traditional linear and nonlinear AVA inversion methods.
+
+
+A detailed introduction can be downloaded and viewed as a pdf, or [click this link.](https://link.springer.com/article/10.1007/s10712-022-09766-5)

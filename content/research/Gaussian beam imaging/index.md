@@ -12,7 +12,7 @@ publishDate: "2021-11-15"
 
 tags: [Imaging]
 
-weight: 50
+weight: 70
 
 # Display this page in the Featured widget?
 featured: false
