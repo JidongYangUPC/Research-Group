@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Events
+title: Publicly available data
 
 # Listing view
 view: compact
