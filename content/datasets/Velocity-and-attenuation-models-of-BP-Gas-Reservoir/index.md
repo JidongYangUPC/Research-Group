@@ -15,7 +15,7 @@ This is a gas reservoir model with both P-wave velocity and Qp parameters. We bu
 
 The model files are RSF format. The detailed RSF format is shown in the Madagascar software website (www.ahay.org). 
 
-A detailed introduction can [click this link.](https://github.com/JidongYangUPC/Velocity-and-attenuation-models-of-BP-Gas-Reservoir1.0)
+Access to the data and a detailed description can [click this link.](https://github.com/JidongYangUPC/Velocity-and-attenuation-models-of-BP-Gas-Reservoir1.0)
 
 ![png](./vp.png)
 
