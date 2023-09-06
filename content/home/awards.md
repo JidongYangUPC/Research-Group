@@ -120,5 +120,5 @@ item:
   title: '王涛英才奖学金'
   url: ""
 design:
-  columns: '2' 
+  columns: '1' 
 ---
