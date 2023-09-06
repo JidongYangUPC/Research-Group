@@ -33,6 +33,8 @@ summaryLength: 30
 paginate: 10
 enableEmoji: true
 enableRobotsTXT: true
+disableKinds: ["sitemap", "RSS", "robotsTXT"]
+publishDir: "public"
 footnotereturnlinkcontents: <sup>^</sup>
 ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
 permalinks:
