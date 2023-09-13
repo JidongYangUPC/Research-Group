@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Jidong Yang # Website name
-baseURL: '' # Website URL
+baseURL: 'https://seislabupc.cn/' # Website URL
 
 ############################
 ## LANGUAGE
@@ -30,7 +30,7 @@ module:
 
 enableGitInfo: false
 summaryLength: 30
-paginate: 10
+paginate: 10 #每页显示文章数
 enableEmoji: true
 enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
