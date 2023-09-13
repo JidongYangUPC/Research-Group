@@ -28,6 +28,9 @@ module:
 ## ADVANCED
 ############################
 
+params:
+  description: 'JidongYang'
+
 enableGitInfo: false
 summaryLength: 30
 paginate: 10 #每页显示文章数
