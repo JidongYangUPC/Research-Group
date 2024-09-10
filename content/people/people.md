@@ -34,8 +34,6 @@ table th:first-of-type {
 
 |                                                              |                                                              |
 | :----------------------------------------------------------- | :----------------------------------------------------------- |
-| <img align="left" src="people.assets/sunjiaxing.jpg" width="80%" /> | **2020-Present, Jiaxing Sun: Deep Learning for seismic imaging and inversion**<br />Jiaxing Sun graduated from China University of Petroleum (Beijing) with a master’s degree in Geoscience in June 2020. She joined the China University of Petroleum (East China) in September 2020 and started pursuing Ph.D. Her current work mainly focused on using the deep learning for seismic AVO inversion, least-squares migration, diffraction/reflection separation and wavefield separation. In her free time, she loves outdoor activities such as climbing and skiing. |
-| <br />                                                       |                                                              |
 | <img align="left" src="people.assets/20230220171640.jpg" width="80%" /> | **2021-Present, Kevin Mba: Earthquake and volcano monitoring**<br />Kevin Zebaze graduated from University of Buea and Douala (Cameroon) with a double master degree in Applied Geology and Sustainable  Management of Coastal and Marine Environment. He join the the University of Petroleum (East China) in 2021 and majored in geological resources and geological engineering for PH.D currently. His research topics include Time-reversal techniques (i.e. back-projection), and numerical modelling . He is an anime fan, humorous, and like sports activities such as Handball and Football. |
 | <br />                                                       |                                                              |
 | <img align="left" src="people.assets/image-20230218185042951.png" width="80%" /> | **2022-Present, Yiwei Tian: Poroelastic modeling and imaging**<br />Yiwei Tian graduated from Nankai University with a bachelor's degree in Mathematics in 2015. He joined the Geoscience and Technology Department in China University of Petroleum (East China) in 2020 and majored in geological resources and geological engineering for Ph.D currently. His research topics include poroelastic forward modeling and reverse time migration. Personally,He is an anime fan and a humorous man who is good at discovering interesting things in life. |
@@ -50,6 +48,10 @@ table th:first-of-type {
 | <br />                                                       |                                                              |
 | <img align="left" src="people.assets/20230219133629.jpg" width="80%" /> | **2023-Present, Fan Yan: Time-domain least-squares migration**<br />Fan Yan received his Bachelor’s Degree in Prospecting Technology and Engineering from China University of Petroleum (East) in June 2022.In the same year, he studied for a master's degree in the university.He is now studying for a doctor's degree in geophysics.His research topics include wave equation migration and deep learning. |
 | <br />                                                       |                                                              |
+| <img align="left" src="people.assets/20230219135421.jpg" width="80%" /> | **2024-Present, Youcai Yu: Full waveform inversion**<br />Youcai Yu  graduated from Shandong University of Science and Technology with a bachelor's degree in exploration technology and engineering in 2021. His main research interest is full-waveform inversion, and he is currently working on new full-waveform inversion objective functions. He enjoys music and traveling. |
+| <br />                                                       |                                                              |
+| <img align="left" src="people.assets/cbaa3a094e53a3e05e3adcb8e8ab8d8.jpg" width="80%" /> | **2024-Present, Kunpeng Yu: Ambient seismic noise cross-correlation inversion**<br />Kunpeng Yu graduated from China University of Petroleum (East China) with a bachelor degree in Geophysics in June 2023. In the same year, he studied for a master’s degree in the university. He is currently researching on the cross-correlation inversion of seismic ambient noise. In his spare time he prefers to watch movies and videos. |
+| <br />                                                       |                                                              |
 
 
 
@@ -59,26 +61,37 @@ table th:first-of-type {
 
 ---
 
-| <br />                                                       |                                                              |
+|                                                              |                                                              |
 | :----------------------------------------------------------- | :----------------------------------------------------------- |
-| <img align="left" src="people.assets/image-20230218220503532.png" width="80%" /> | **2021-2024, Jie Xu: Full-wavefield imaging**  <br />Jie Xu graduated from China Univerity of petroleum(East China) with a bachelor's degree in exploration technology and engineering in 2021. Her main research interests are in Marchenko imaging using multiples to image. She likes to travel and experience the customs and characteristics of different places. |
-| <br />                                                       |                                                              |
-| <img align="left" src="people.assets/20230219135421.jpg" width="80%" /> | **2021-2024, Youcai Yu: Full waveform inversion**<br />Youcai Yu  graduated from Shandong University of Science and Technology with a bachelor's degree in exploration technology and engineering in 2021. His main research interest is full-waveform inversion, and he is currently working on new full-waveform inversion objective functions. He enjoys music and traveling. |
-| <br />                                                       |                                                              |
-| <img align="left" src="people.assets/20230219144815.jpg" width="80%" /> | **2021-2024, Zhiwen Shi: DAS-related modeling and imaging**<br />Zhiwen Shi graduated from Chang’an University with a bachelor’ s degree geophysics and engineering in 2021. His main research interesting is numerical simulation and imaging of distributed acoustic sensing. He likes playing basketball and cycling. |
-| <br />                                                       |                                                              |
 | <img align="left" src="people.assets/image-20230219124536953.png" width="80%" /> | **2022-2025, Hao Zhang: Removal of "black triangle" noise**<br />Hao Zhang received his Bachelor’s Degree in Exploration Geophysics from China University of Petroleum (East China) in June 2022. He is currently a master's student interested in seismic processing. He is currently studying the attenuation of black triangle noise caused by undulating surface environments.In his free time, he loves outdoor activities such as skiing and badminton. |
 | <br />                                                       |                                                              |
 | <img align="left" src="people.assets/461fdab4a6846b6a521fcc003396f28.jpg" width="80%" /> | **2022-2025, Pengfei Wang: Elastic imaging**<br />Wang Pengfei received a bachelor's degree in exploration technology and engineering from Xi'an Shiyou University in 2022, and is now studying at China University of Petroleum (East China) as a master's degree in geological resources and geological engineering, and usually likes sports, such as badminton, basketball and other sports. |
 | <br />                                                       |                                                              |
 | <img align="left" src="people.assets/a508fd1e6aa5c49969a20fcc02fd152.jpg" width="80%" /> | **2023-2025, Xuanhao Chen: Deep learning for diffraction separation and imaging**<br />Xuanhao Chen holds a master‘s degree in geophysics from China University of Petroleum (East China). Her research focuses on deep learning-based diffraction wave separation and imaging. In her spare time, she likes playing badminton and table tennis. |
 | <br />                                                       |                                                              |
-| <img align="left" src="people.assets/cbaa3a094e53a3e05e3adcb8e8ab8d8.jpg" width="80%" /> | **2023-2025, Kunpeng Yu: Ambient seismic noise cross-correlation inversion**<br />Kunpeng Yu graduated from China University of Petroleum (East China) with a bachelor degree in Geophysics in June 2023. In the same year, he studied for a master’s degree in the university. He is currently researching on the cross-correlation inversion of seismic ambient noise. In his spare time he prefers to watch movies and videos. |
-| <br />                                                       |                                                              |
 | <img align="left" src="people.assets/fd0a1b32f44812d3b1ab952abcf0382_看图王.jpg" width="80%" /> | **2023-2026,TianTao Shan:Gaussian Beam Migration Imaging for VTI Media**<br/>Tiantao Shan graduated from Shandong University of Technology in 2023 with a bachelor's degree in exploration technology and engineering. His main research area is Gaussian Beam Migration Imaging for VTI Media. He enjoys traveling and playing basketball. |
-
+| <br />                                                       |                                                              |
+| <img align="left" src="people.assets/yanxin.jpg" width="80%" /> | **2024-2027, Xin Yan: Full waveform inversion**<br/>Xin Yan graduated from China University of Petroleum (East China) with a bachelor's degree in geophysics in 2024. Currently, he is undertaking a master's degree at the same university, and his current research is concentrated on intelligent full waveform inversion. During his leisure time, he enjoys watching movies or episodes and taking walks. |
+| <br />                                                       |                                                              |
+| <img align="left" src="people.assets/guowenjing - 看图王.jpg" width="80%" /> | **2024-2027, Wenjing Guo: Deep Learning for seismic imaging** <br/>Wenjing Guo graduated from China Univerity of petroleum(East China) with a bachelor’s degree in geophysics in 2024.Her main research interests is "Application of artificial intelligence to least-squares migration methods in imaging domains".She enjoys various outdoor sports such as running, playing badminton, and prefers to be close to nature. |
+| <br />                                                       |                                                              |
+| <img align="left" src="people.assets/liuyang.jpg" width="80%" /> | **2024-2027, Liu Yang: Least square migration**<br/>Liu Yang graduated from Xi’an Shiyou University with a bachelor's degree in geophysics in 2024. Currently, he is undertaking a master's degree at the China University of Petroleum (East China), and his current research is concentrated on least square migration imaging. During his leisure time, he enjoys swimming or natural body building. |
 
    <br />   
+
+####  Alumnus
+
+---
+
+| <br />                                                       |                                                              |
+| :----------------------------------------------------------- | :----------------------------------------------------------- |
+| <img align="left" src="people.assets/sunjiaxing.jpg" width="80%" /> | **2020-2024, Jiaxing Sun: Deep Learning for seismic imaging and inversion**<br />Jiaxing Sun graduated from China University of Petroleum (Beijing) with a master’s degree in Geoscience in June 2020. She joined the China University of Petroleum (East China) in September 2020 and started pursuing Ph.D. Her current work mainly focused on using the deep learning for seismic AVO inversion, least-squares migration, diffraction/reflection separation and wavefield separation. In her free time, she loves outdoor activities such as climbing and skiing. |
+| <br />                                                       |                                                              |
+| <img align="left" src="people.assets/image-20230218220503532.png" width="80%" /> | **2021-2024, Jie Xu: Full-wavefield imaging**  <br />Jie Xu graduated from China Univerity of petroleum(East China) with a bachelor's degree in exploration technology and engineering in 2021. Her main research interests are in Marchenko imaging using multiples to image. She likes to travel and experience the customs and characteristics of different places. |
+| <br />                                                       |                                                              |
+| <img align="left" src="people.assets/20230219144815.jpg" width="80%" /> |                                                              **2021-2024, Zhiwen Shi: DAS-related modeling and imaging**<br />Zhiwen Shi graduated from Chang’an University with a bachelor’ s degree geophysics and engineering in 2021. His main research interesting is numerical simulation and imaging of distributed acoustic sensing. He likes playing basketball and cycling.|
+
+
 
 ### Openings
 
