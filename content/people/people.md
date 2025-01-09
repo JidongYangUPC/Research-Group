@@ -12,9 +12,9 @@ weight: 10
 title:
 subtitle:
 
-#design:
-#  columns: '1'
-#---
+design:
+  columns: '1'
+---
 
 #![微信图片_20230504182152_看图王](people.assets/微信图片_20230504182152_看图王.jpg)
 
