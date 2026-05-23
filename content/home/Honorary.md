@@ -25,22 +25,6 @@ date_format: Jan 2006
 item:
 - certificate_url: 
   date_end: ""
-  date_start: "2021-12-02"
-  description: ""
-  organization: 国家自然科学基金委员会
-  organization_url: 
-  title: 国家优秀青年科学基金（海外）项目获得者
-  url: ""
-- certificate_url: 
-  date_end: ""
-  date_start: "2021-12-01"
-  description: ""
-  organization: 山东省科学技术厅
-  organization_url: 
-  title: 山东省优秀青年科学基金（海外）项目获得者
-  url: ""
-- certificate_url: 
-  date_end: ""
   date_start: "2020-10-01"
   description: ""
   organization: 中国石油大学
