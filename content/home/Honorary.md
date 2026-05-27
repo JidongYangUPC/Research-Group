@@ -31,6 +31,7 @@ item:
   organization_url: 
   title: 中国石油大学（华东）“光华学者”
   url: ""
+
 design:
   columns: '2' 
 ---
