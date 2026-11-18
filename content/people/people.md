@@ -119,6 +119,15 @@ h5.orial-people-cohort { margin: 1.5rem 0 .85rem; font-size: 1.25rem; font-weigh
     <p class="orial-people-bio">Yang Liu earned his bachelor&#x27;s degree in geophysics from Xi&#x27;an Shiyou University in 2024. He&#x27;s now pursuing a PhD at China University of Petroleum (East China), where his research focuses on Time-domain least-squares migration. In his free time, he enjoys natural bodybuilding.</p>
   </div>
 </article>
+<article class="orial-people-card">
+  <img class="orial-people-portrait" src="people.assets/石绍琳.png" alt="Yang Liu" loading="lazy" decoding="async">
+  <div>
+    <h5 class="orial-people-name">Shaolin Shi</h5>
+    <p class="orial-people-research">2025-Present · Intelligent Elastic Full-Waveform Inversion</p>
+    <p class="orial-people-bio">Shaolin Shi is currently pursuing his Ph.D. in Geological Resources and Geological Engineering at China University of Petroleum (East China). His research focuses on elastic full-waveform inversion, with particular interests in novel model parameterization, optimization methods, and the application of artificial intelligence to seismic exploration. He is dedicated to developing efficient and accurate methods for subsurface imaging and characterization.</p>
+  </div>
+</article>
+    
 </div>
 
 #### Master&#39;s Students
@@ -237,6 +246,7 @@ h5.orial-people-cohort { margin: 1.5rem 0 .85rem; font-size: 1.25rem; font-weigh
   </div>
 </article>
 </div>
+
 
 <h4 class="orial-people-alumni" id="alumni">Alumni</h4>
 
