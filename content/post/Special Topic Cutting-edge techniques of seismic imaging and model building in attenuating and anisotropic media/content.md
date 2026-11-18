@@ -17,7 +17,6 @@ design:
   columns: '1'
 ---
 
-<br />
 
 Seismic imaging is a powerful tool for petroleum exploration and monitoring, contributing to the discovery of most large oil and gas fields in the world. With the rapid development of the oil and gas industry, exploration targets are becoming increasingly complex, including onshore deep/ultra-deep carbonate reservoirs, offshore subsalt traps, overthrust- and strike-slip-fault-associated reservoirs, and unconventional shale gas. In these environments, seismic attenuation and anisotropy are non-negligible and has a large impact on imaging and model building. Attenuation leads to phase dispersion and energy dissipation, and anisotropy results in different propagation speeds in different directions. Without correcting for these effects, any estimated velocity model and migrated image will have inaccurate or totally wrong kinematic and dynamic information, especially for deep and ultra-deep targets that require long-distance propagation to illuminate. To date, many attenuation compensation and anisotropy correction techniques have been used in seismic data processing. However, with the increasing complexity of the exploration targets, early methodologies might have some limitations.
 

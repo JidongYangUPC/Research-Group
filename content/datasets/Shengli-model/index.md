@@ -12,8 +12,8 @@ date: "2022-05-23T00:00:00Z"
 
 
 
-![png](./shengli_model.png)
+![Geological structure of the Shengli oilfield model](./shengli_model.png)
 
 
-​	This is a model that is similar to the actual geological structure of the Shengli oil field.
+This is a model that is similar to the actual geological structure of the Shengli oil field.
 

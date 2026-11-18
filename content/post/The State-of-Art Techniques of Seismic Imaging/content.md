@@ -17,7 +17,6 @@ design:
   columns: '1'
 ---
 
-<br />
 
 With the rapid developments of the global oil & gas industry in the past three decades, deep and ultra-deep hydrocarbon reservoirs gradually become an important exploration target. Except for the difference of buried depth from traditional shallow-to-middle reservoirs, deep and ultra-deep oil/gas reservoirs have specific hydrocarbon sources, accumulation mechanisms and sweet-spot distribution patterns. Seismic imaging is a powerful tool to detect subsurface hydrocarbon reservoirs, which can not only provide 3D subsurface structures of the impedance interfaces but can indicate rock and fluid properties. To date, there are a lot of oil and gas fields successfully detected by seismic imaging worldwide, such as in the Middle East, Gulf of Mexico, North Sea and West China. However, how to apply seismic imaging to study deep and ultra-deep oil/gas reservoirs is still challenging, because of the low signal-to-noise ratio of deep reflections, inaccurate velocity building and poor imaging quality.
 

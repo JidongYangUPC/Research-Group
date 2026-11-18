@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publication_types | Jidong Yang</title>
+    <link>http://127.0.0.1:8830/publication_types/</link>
+      <atom:link href="http://127.0.0.1:8830/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publication_types</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>http://127.0.0.1:8830/media/icon_hubd2f80d78884ba0239fa1548e84cd589_19268_512x512_fill_lanczos_center_3.png</url>
+      <title>Publication_types</title>
+      <link>http://127.0.0.1:8830/publication_types/</link>
+    </image>
+    
+  </channel>
+</rss>

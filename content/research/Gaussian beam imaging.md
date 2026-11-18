@@ -49,12 +49,7 @@ projects:
 #slides: example
 ---
 
-<div style="text-align: center;">
-  <img src="./Gaussian beam imaging.assets/featured.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
-</div>
-
-<br />
-
+{{< research-figure src="Gaussian beam imaging.assets/featured.png" alt="Gaussian beam imaging — research figure" >}}
 
 
 We parameterize the wave equation with an angle-dependent reflectivity, and derive the corresponding linearized forward modeling and adjoint migration operators. Because Gaussian Beam migration naturally incorporates propagation directions in wavefield extrapolation, we compute the Green’s function using the Gaussian beam summation method. To improve the common-image gather (CIG) quality for low-fold and low-SNR data, a shaping regularization over the half-opening angles is introduced in the conjugate gradient scheme to iteratively update the angle-dependent reflectivity model. A flattening-enhanced summation is used to compute the stacked images by accounting for the depth moveout of CIGs caused by velocity errors, and produces constructive stacking results.

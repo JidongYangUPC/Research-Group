@@ -35,9 +35,6 @@ content:
     postcode: '94305'
     country: China
     country_code: CN
-  coordinates:
-    latitude: '118.3218'
-    longitude: '37.2750'
   directions: Enter Building Comprehensive laboratory and take the stairs to Office D313 on Floor 3
   appointment_url: 'https://calendly.com'
   contact_links:
@@ -54,4 +51,6 @@ design:
   columns: '1'
 ---
 
-###### Welcome to join us !
+**Welcome to join us !**
+
+<p class="rg-contact-intro{text-align: left;}">For research collaboration and graduate opportunities, contact the group using the form or details below.</p>

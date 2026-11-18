@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Jidong Yang</title><link>http://127.0.0.1:8830/authors/admin/</link><atom:link href="http://127.0.0.1:8830/authors/admin/index.xml" rel="self" type="application/rss+xml"/><description>Jidong Yang</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 23 May 2022 00:00:00 +0000</lastBuildDate><image><url>http://127.0.0.1:8830/authors/admin/avatar_hu56b628f4fe513f5b17df634febaf3c61_37055_270x270_fill_q75_lanczos_center.jpg</url><title>Jidong Yang</title><link>http://127.0.0.1:8830/authors/admin/</link></image><item><title>Shengli Model</title><link>http://127.0.0.1:8830/datasets/shengli-model/</link><pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate><guid>http://127.0.0.1:8830/datasets/shengli-model/</guid><description>&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./shengli_model.png" alt="Geological structure of the Shengli oilfield model" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;p>This is a model that is similar to the actual geological structure of the Shengli oil field.&lt;/p></description></item><item><title>Velocity and attenuation models of the BP gas reservoir</title><link>http://127.0.0.1:8830/datasets/velocity-and-attenuation-models-of-bp-gas-reservoir/</link><pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate><guid>http://127.0.0.1:8830/datasets/velocity-and-attenuation-models-of-bp-gas-reservoir/</guid><description>&lt;p>This is a gas reservoir model with both P-wave velocity and Qp parameters. We build this model by modifying the right part of the original BP model, which can be used for seismic modeling, migration and inversion study.&lt;/p>
+&lt;p>The model files are RSF format. The detailed RSF format is shown in the Madagascar software website (&lt;a href="https://www.ahay.org" target="_blank" rel="noopener">www.ahay.org&lt;/a>).&lt;/p>
+&lt;p>Access to the data and a detailed description can &lt;a href="https://github.com/JidongYangUPC/Velocity-and-attenuation-models-of-BP-Gas-Reservoir1.0" target="_blank" rel="noopener">click this link.&lt;/a>&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./vp.png" alt="P-wave velocity model of the BP gas reservoir" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./qp.png" alt="P-wave quality factor (Qp) model of the BP gas reservoir" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;h2 id="references">References&lt;/h2>
+&lt;p>When using this model, please cite the following references:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-bibtex" data-lang="bibtex">&lt;span class="line">&lt;span class="cl">&lt;span class="nc">@article&lt;/span>&lt;span class="p">{&lt;/span>&lt;span class="nl">10.1093/gji/ggy323&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="na">author&lt;/span> &lt;span class="p">=&lt;/span> &lt;span class="s">{Yang, Jidong and Zhu, Hejun}&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="na">title&lt;/span> &lt;span class="p">=&lt;/span> &lt;span class="s">&amp;#34;{A time-domain complex-valued wave equation for modelling visco-acoustic wave propagation}&amp;#34;&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="na">journal&lt;/span> &lt;span class="p">=&lt;/span> &lt;span class="s">{Geophysical Journal International}&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="na">volume&lt;/span> &lt;span class="p">=&lt;/span> &lt;span class="s">{215}&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="na">number&lt;/span> &lt;span class="p">=&lt;/span> &lt;span class="s">{2}&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="na">pages&lt;/span> &lt;span class="p">=&lt;/span> &lt;span class="s">{1064-1079}&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="na">year&lt;/span> &lt;span class="p">=&lt;/span> &lt;span class="s">{2018}&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="na">month&lt;/span> &lt;span class="p">=&lt;/span> &lt;span class="s">{08}&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="na">issn&lt;/span> &lt;span class="p">=&lt;/span> &lt;span class="s">{0956-540X}&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="na">doi&lt;/span> &lt;span class="p">=&lt;/span> &lt;span class="s">{10.1093/gji/ggy323}&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="na">url&lt;/span> &lt;span class="p">=&lt;/span> &lt;span class="s">{https://doi.org/10.1093/gji/ggy323}&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="na">eprint&lt;/span> &lt;span class="p">=&lt;/span> &lt;span class="s">{https://academic.oup.com/gji/article-pdf/215/2/1064/25530487/ggy323.pdf}&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">}&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-bibtex" data-lang="bibtex">&lt;span class="line">&lt;span class="cl">&lt;span class="nc">@article&lt;/span>&lt;span class="p">{&lt;/span>&lt;span class="nl">doi:10.1190/geo2018-0050.1&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="na">author&lt;/span> &lt;span class="p">=&lt;/span> &lt;span class="s">{Jidong Yang and Hejun Zhu}&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="na">title&lt;/span> &lt;span class="p">=&lt;/span> &lt;span class="s">{Viscoacoustic reverse time migration using a time-domain complex-valued wave equation}&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="na">journal&lt;/span> &lt;span class="p">=&lt;/span> &lt;span class="s">{GEOPHYSICS}&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="na">volume&lt;/span> &lt;span class="p">=&lt;/span> &lt;span class="s">{83}&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="na">number&lt;/span> &lt;span class="p">=&lt;/span> &lt;span class="s">{6}&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="na">pages&lt;/span> &lt;span class="p">=&lt;/span> &lt;span class="s">{S505-S519}&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="na">year&lt;/span> &lt;span class="p">=&lt;/span> &lt;span class="s">{2018}&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="na">doi&lt;/span> &lt;span class="p">=&lt;/span> &lt;span class="s">{10.1190/geo2018-0050.1}&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="na">URL&lt;/span> &lt;span class="p">=&lt;/span> &lt;span class="s">{https://doi.org/10.1190/geo2018-0050.1}&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="na">eprint&lt;/span> &lt;span class="p">=&lt;/span> &lt;span class="s">{https://doi.org/10.1190/geo2018-0050.1}&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">}&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-bibtex" data-lang="bibtex">&lt;span class="line">&lt;span class="cl">&lt;span class="nc">@article&lt;/span>&lt;span class="p">{&lt;/span>&lt;span class="nl">doi:10.1190/geo2018-0804.1&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="na">author&lt;/span> &lt;span class="p">=&lt;/span> &lt;span class="s">{Jidong Yang and Hejun Zhu}&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="na">title&lt;/span> &lt;span class="p">=&lt;/span> &lt;span class="s">{Viscoacoustic least-squares reverse time migration using a time-domain complex-valued wave equation}&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="na">journal&lt;/span> &lt;span class="p">=&lt;/span> &lt;span class="s">{GEOPHYSICS}&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="na">volume&lt;/span> &lt;span class="p">=&lt;/span> &lt;span class="s">{84}&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="na">number&lt;/span> &lt;span class="p">=&lt;/span> &lt;span class="s">{5}&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="na">pages&lt;/span> &lt;span class="p">=&lt;/span> &lt;span class="s">{S479-S499}&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="na">year&lt;/span> &lt;span class="p">=&lt;/span> &lt;span class="s">{2019}&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="na">doi&lt;/span> &lt;span class="p">=&lt;/span> &lt;span class="s">{10.1190/geo2018-0804.1}&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="na">URL&lt;/span> &lt;span class="p">=&lt;/span> &lt;span class="s">{https://doi.org/10.1190/geo2018-0804.1}&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="na">eprint&lt;/span> &lt;span class="p">=&lt;/span> &lt;span class="s">{https://doi.org/10.1190/geo2018-0804.1}&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">}&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-bibtex" data-lang="bibtex">&lt;span class="line">&lt;span class="cl">&lt;span class="nc">@article&lt;/span>&lt;span class="p">{&lt;/span>&lt;span class="nl">https://doi.org/10.1029/2019JB019129&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="na">author&lt;/span> &lt;span class="p">=&lt;/span> &lt;span class="s">{Yang, Jidong and Zhu, Hejun and Li, Xueyan and Ren, Li and Zhang, Shuo}&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="na">title&lt;/span> &lt;span class="p">=&lt;/span> &lt;span class="s">{Estimating P Wave Velocity and Attenuation Structures Using Full Waveform Inversion Based on a Time Domain Complex-Valued Viscoacoustic Wave Equation: The Method}&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="na">journal&lt;/span> &lt;span class="p">=&lt;/span> &lt;span class="s">{Journal of Geophysical Research: Solid Earth}&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="na">volume&lt;/span> &lt;span class="p">=&lt;/span> &lt;span class="s">{125}&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="na">number&lt;/span> &lt;span class="p">=&lt;/span> &lt;span class="s">{6}&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="na">pages&lt;/span> &lt;span class="p">=&lt;/span> &lt;span class="s">{e2019JB019129}&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="na">keywords&lt;/span> &lt;span class="p">=&lt;/span> &lt;span class="s">{seismic attenuation, seismic inversion, computational seismology}&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="na">doi&lt;/span> &lt;span class="p">=&lt;/span> &lt;span class="s">{https://doi.org/10.1029/2019JB019129}&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="na">url&lt;/span> &lt;span class="p">=&lt;/span> &lt;span class="s">{https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019JB019129}&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="na">eprint&lt;/span> &lt;span class="p">=&lt;/span> &lt;span class="s">{https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2019JB019129}&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="na">note&lt;/span> &lt;span class="p">=&lt;/span> &lt;span class="s">{e2019JB019129 10.1029/2019JB019129}&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="na">year&lt;/span> &lt;span class="p">=&lt;/span> &lt;span class="s">{2020}&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">}&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description></item></channel></rss>

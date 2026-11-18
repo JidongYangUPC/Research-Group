@@ -53,11 +53,8 @@ projects:
 #slides: example
 ---
 
-<div style="text-align: center;">
-  <img src="./Wave mode separation in the poroelastic medium.assets/featured1.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
-</div>
+{{< research-figure src="Wave mode separation in the poroelastic medium.assets/featured1.png" alt="Wave mode separation in the poroelastic medium — research figure" >}}
 
-<br />
 
 We propose a method based on the eigenform analysis to completely separate the fast P wave, slow P wave, and S wave in the poroelastic medium. Because the propagation characteristic of a slow P wave is different from that of a fast P wave and S wave, the wavefield separation methods in the elastic medium cannot be directly applied to produce a complete wave-mode separation. We first use the Helmholtz decomposition to compute the P- and S-mode potential wavefields to separate the two wave modes. Then, the eigenvalues and eigenvectors of the P-wave potentials for the solid and fluid phases are calculated. Using the eigenvectors, we can construct the separation operators to extract fast and slow P waves. Numerical experiments illustrate that the fast and slow P waves not only can be separated completely, but also have the same amplitudes and phases as the coupled P-wave potentials. 
 

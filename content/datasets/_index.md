@@ -1,5 +1,7 @@
 ---
 title: Publicly available data
+design:
+  css_class: rg-datasets
 
 # Listing view
 view: compact

@@ -1,5 +1,7 @@
 ---
 title: Latest News
+design:
+  css_class: rg-news
 
 # Listing view
 view: 3

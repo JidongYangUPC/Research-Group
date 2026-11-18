@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title:
+title: Group
 subtitle:
 
 design:
@@ -44,13 +44,20 @@ h5.orial-people-cohort { margin: 1.5rem 0 .85rem; font-size: 1.25rem; font-weigh
 }
 </style>
 
-### Group Logo
-
-<div class="orial-people-logo">
+<div class="orial-people-logo" id="group-logo">
   <img src="people.assets/grouplogo.png" alt="Group logo">
 </div>
 
 ### Group Members
+
+<nav class="rg-people-directory" aria-label="Group sections">
+  <ul class="rg-directory">
+    <li><a href="#doctoral-students">Doctoral students</a></li>
+    <li><a href="#master39s-students">Master's students</a></li>
+    <li><a href="#alumni">Alumni</a></li>
+    <li><a href="#openings">Openings</a></li>
+  </ul>
+</nav>
 
 #### Doctoral Students
 
@@ -125,9 +132,8 @@ h5.orial-people-cohort { margin: 1.5rem 0 .85rem; font-size: 1.25rem; font-weigh
     <h5 class="orial-people-name">Shaolin Shi</h5>
     <p class="orial-people-research">2025-Present · Intelligent Elastic Full-Waveform Inversion</p>
     <p class="orial-people-bio">Shaolin Shi is currently pursuing his Ph.D. in Geological Resources and Geological Engineering at China University of Petroleum (East China). His research focuses on elastic full-waveform inversion, with particular interests in novel model parameterization, optimization methods, and the application of artificial intelligence to seismic exploration. He is dedicated to developing efficient and accurate methods for subsurface imaging and characterization.</p>
-  </div>
+  </div>    
 </article>
-    
 </div>
 
 #### Master&#39;s Students
@@ -246,7 +252,6 @@ h5.orial-people-cohort { margin: 1.5rem 0 .85rem; font-size: 1.25rem; font-weigh
   </div>
 </article>
 </div>
-
 
 <h4 class="orial-people-alumni" id="alumni">Alumni</h4>
 

@@ -49,11 +49,7 @@ projects:
 #slides: example
 ---
 
-<div style="text-align: center;">
-  <img src="./Earthquake rupture imaging.assets/featured.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
-</div>
-<br />
-
+{{< research-figure src="Earthquake rupture imaging.assets/featured.png" alt="Earthquake rupture imaging — research figure" >}}
 
 We present an integrative analysis for the 2020 Stanley earthquake using state-of-the-art methods in seismology and remote sensing. An opposing-dip two-fault model is prescribed to reconcile the observations of aftershock distribution, teleseismic records and near-field InSAR deformation, which includes an unmapped northern subfault with predominantly strike-slip faulting and a southern subfault subparallel to the Sawtooth fault with predominantly normal faulting. The converging fault geometry allows the rupture to traverse a surficial 10-km-wide step, which is greater than the limiting dimension(3-4 km) that commonly ceases earthquake ruptures. Considering tectonic settings, we infer that the composite ruptures involving both strike-slip and normal faulting appears to be typical for earthquakes located near the northern boundary of the CTB, which is different from the predominantly normal faulting in the central CTB.
 

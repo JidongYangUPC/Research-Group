@@ -1,0 +1,10 @@
+{{- $research := site.GetPage "/research/index.md" -}}
+<nav aria-label="Research topics">
+  <ul class="rg-directory">
+    {{- range where ($research.Resources.ByType "page") ".Params.active" "!=" false }}
+      {{- if ne .File.ContentBaseName $.Page.File.ContentBaseName }}
+        <li><a href="#{{ .File.ContentBaseName }}">{{ .Title }}</a></li>
+      {{- end }}
+    {{- end }}
+  </ul>
+</nav>

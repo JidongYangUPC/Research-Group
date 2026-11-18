@@ -49,11 +49,8 @@ projects:
 #slides: example
 ---
 
-<div style="text-align: center;">
-  <img src="./Locating and monitoring microseismicity.assets/featured.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
-</div>
+{{< research-figure src="Locating and monitoring microseismicity.assets/featured.png" alt="Locating and monitoring microseismicity — research figure" >}}
 
-<br />
 
 We present a novel passive-source monitoring approach using vector-based elastic time-reversal imaging. By solving the elastic wave equation using observed multicomponent records as boundary conditions, we first compute back-propagated elastic wavefields in the subsurface. Then, we separate the extrapolated wavefields into compressional (P-wave) and shear (S-wave) modes using the vector Helmholtz decomposition. A zero-lag cross-correlation imaging condition is applied to the separated pure-mode vector wavefields to produce passive-source images. To capture the propagation of microseismic fracture and earthquake rupture, we modify the traditional zero-lag cross-correlation imaging condition by summing the multiplication of the separated P and S wavefields within local time windows, which enables us to capture the temporal and spatial evolution of earthquake rupture.
 

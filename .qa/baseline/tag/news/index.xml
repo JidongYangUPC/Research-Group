@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News | Jidong Yang</title>
+    <link>http://127.0.0.1:8830/tag/news/</link>
+      <atom:link href="http://127.0.0.1:8830/tag/news/index.xml" rel="self" type="application/rss+xml" />
+    <description>News</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 13 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1:8830/media/icon_hubd2f80d78884ba0239fa1548e84cd589_19268_512x512_fill_lanczos_center_3.png</url>
+      <title>News</title>
+      <link>http://127.0.0.1:8830/tag/news/</link>
+    </image>
+    
+    <item>
+      <title>Special Issue Fractional Equations and Calculation Methods in Exploration Seismology</title>
+      <link>http://127.0.0.1:8830/post/special-issue-fractional-equations-and-calculation-methods-in-exploration-seismology/</link>
+      <pubDate>Mon, 13 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://127.0.0.1:8830/post/special-issue-fractional-equations-and-calculation-methods-in-exploration-seismology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>傅承义青年科技奖</title>
+      <link>http://127.0.0.1:8830/post/%E5%82%85%E6%89%BF%E4%B9%89%E9%9D%92%E5%B9%B4%E7%A7%91%E6%8A%80%E5%A5%96/</link>
+      <pubDate>Mon, 06 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://127.0.0.1:8830/post/%E5%82%85%E6%89%BF%E4%B9%89%E9%9D%92%E5%B9%B4%E7%A7%91%E6%8A%80%E5%A5%96/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cutting-edge techniques of seismic imaging and model building in attenuating and anisotropic media</title>
+      <link>http://127.0.0.1:8830/post/special-topic-cutting-edge-techniques-of-seismic-imaging-and-model-building-in-attenuating-and-anisotropic-media/</link>
+      <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://127.0.0.1:8830/post/special-topic-cutting-edge-techniques-of-seismic-imaging-and-model-building-in-attenuating-and-anisotropic-media/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A special issue on Geoscience The State-of-Art Methods and Case Studies in Exploration Seismology</title>
+      <link>http://127.0.0.1:8830/post/a-special-issue-on-geoscience/</link>
+      <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://127.0.0.1:8830/post/a-special-issue-on-geoscience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The State-of-Art Techniques of Seismic Imaging for the Deep and Ultra-deep Hydrocarbon Reservoirs - Volume II</title>
+      <link>http://127.0.0.1:8830/post/the-state-of-art-techniques-of-seismic-imaging/</link>
+      <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://127.0.0.1:8830/post/the-state-of-art-techniques-of-seismic-imaging/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

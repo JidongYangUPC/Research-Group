@@ -53,10 +53,7 @@ projects:
 #slides: example
 ---
 
-<div style="text-align: center;">
-  <img src="./Anisotropic wavefield separation.assets/featured1.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
-</div>
-<br />
+{{< research-figure src="Anisotropic wavefield separation.assets/featured1.png" alt="Anisotropic wavefield separation — research figure" >}}
 
 Based on the eigenform analysis, we develop an efficient pseudo-Helmholtz decomposition method for the VTI and TTI media, which produces vector *P* and *S* wavefields with the same amplitudes, phases and physical units as the input elastic wavefields. Starting from the elastic VTI wave equations, we first derive the analytical eigenvalues and eigenvectors, then use the Taylor expansion to approximate the square-root term in the eigenvalues, and finally obtain a zero-order and a first-order pseudo-Helmholtz decomposition operator. Because the zero-order operator is the true solution for the case of  = *δ*, it produces accurate wavefield separation results for elliptical anisotropic media. The first-order separation operator is more accurate for non-elliptical anisotropy. Since the proposed pseudo-Helmholtz decomposition requires solving an anisotropic Poisson’s equation, we propose two fast numerical solvers. One is based on the sparse lower-upper (LU) factorization, which can be repeatedly applied to the input elastic wavefields once computing the lower and upper triangular matrices. The second solver assumes the model parameters are laterally homogeneous within a given migration aperture. This assumption allows us to efficiently solve the anisotropic Poisson’s equation in the *z* − *k**x* domain, where *k**x* and *z* denote the horizontal wavenumber and depth, respectively. Using the coordinate transform, we extend the pseudo-Helmholtz decomposition to the TTI media. The separated vector wavefields are used to produce *PP* and *PS* images by applying a dot-product imaging condition.
 

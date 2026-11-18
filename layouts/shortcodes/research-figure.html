@@ -1,0 +1,19 @@
+{{- $page := site.GetPage "/research/index.md" -}}
+{{- $name := .Get "src" -}}
+{{- $image := $page.Resources.GetMatch $name -}}
+{{- if not $image -}}
+  {{- errorf "Missing research figure %q at %s" $name .Position -}}
+{{- else -}}
+  {{- $preview := $image -}}
+  {{- if ne $image.MediaType.SubType "gif" -}}
+    {{- $width := $image.Width -}}
+    {{- if gt $width 1440 }}{{ $width = 1440 }}{{ end -}}
+    {{- $preview = $image.Resize (printf "%dx webp q85" $width) -}}
+  {{- end -}}
+  <figure class="rg-figure">
+    <a href="{{ $image.RelPermalink }}" aria-label="View original: {{ .Get `alt` }}">
+      <img src="{{ $preview.RelPermalink }}" width="{{ $preview.Width }}" height="{{ $preview.Height }}" alt="{{ .Get `alt` }}" loading="lazy" decoding="async">
+    </a>
+    {{ with .Get "caption" }}<figcaption>{{ . }}</figcaption>{{ end }}
+  </figure>
+{{- end -}}

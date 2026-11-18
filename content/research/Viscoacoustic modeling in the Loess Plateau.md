@@ -52,12 +52,7 @@ projects:
 #slides: example
 ---
 
-<div style="text-align: center;">
-  <img src="./Viscoacoustic modeling in the Loess Plateau.assets/featured1.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
-</div>
-
-<br />
-
+{{< research-figure src="Viscoacoustic modeling in the Loess Plateau.assets/featured1.png" alt="Viscoacoustic modeling in the Loess Plateau — research figure" >}}
 
 
 We present a viscoacoustic modeling method to study seismic wave phenomena in the Loess Plateau. A viscoacoustic wave equation is first derived based on a non-linear optimization for the frequency-independent Q effect within a frequency band. To conform to the topographic surface, a vertically deformed grid is adopted to transform the irregular domain to a regular computational coordinate. This strategy does not introduce as many additional partial derivatives as the curvilinear grid method that deforms along three axes. In addition, to accurately compute the spatial derivatives, we apply a fully staggered-grid finite-difference scheme to numerically solve the viscoacoustic wave equation on a vertical deformed grid. Numerical experiments for 3D LoessPlateau models demonstrate the proposed method can accurately simulate wave propagation in the Loess Plateau with thick loess layers.

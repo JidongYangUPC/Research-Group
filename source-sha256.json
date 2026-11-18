@@ -1,0 +1,558 @@
+[
+  {
+    "path": ".github\\FUNDING.yml",
+    "sha256": "69AF65DE678AD5DEFCB04A254B571175819753B1C3E876F8860103307478CAFF"
+  },
+  {
+    "path": "assets\\jsconfig.json",
+    "sha256": "1BFCBEEF2D76801D818BD5DFE129CFD32D01C57C28CC02882FA46886D48C0313"
+  },
+  {
+    "path": "assets\\media\\coders.jpg",
+    "sha256": "168153A875A7EB50195DC8212CD1E716F608F9F4B681EA16F80C3ABC5881F236"
+  },
+  {
+    "path": "assets\\media\\contact.jpg",
+    "sha256": "DCB7DA40F56EEE00B8D7EB44DBF46141A21625E5649060FFAE6D3916A35FFC80"
+  },
+  {
+    "path": "assets\\media\\icon.png",
+    "sha256": "8E1A6673FCF220F1AA4A919CB9D9C8ECC6E2EBEE1162523734B7BE2C8ACFACF6"
+  },
+  {
+    "path": "assets\\media\\welcome.jpg",
+    "sha256": "F32DEC5A8287F972CEBFCD97386284E169B7EEC82F708E8AA9F341AFBD1CE85B"
+  },
+  {
+    "path": "assets\\media\\icons\\.gitkeep",
+    "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+  },
+  {
+    "path": "assets\\media\\icons\\brands\\Aramco.svg",
+    "sha256": "742CC48B04F48FD94931B51562A2D3AAC4F33C0F15C2ED00343D39D07469BACE"
+  },
+  {
+    "path": "assets\\media\\icons\\brands\\org-gc.svg",
+    "sha256": "FE808F9AB1048355332B37030BB6A8BF44E40DA28942D3E71AD642292F041260"
+  },
+  {
+    "path": "assets\\media\\icons\\brands\\org-x.svg",
+    "sha256": "8EDEF7EADCDD899CB9468F526D18B093DB4A14D968DECE82F5D52B838930F51D"
+  },
+  {
+    "path": "assets\\media\\icons\\brands\\total.svg",
+    "sha256": "BBCB0C8E1DBE2139759EBC83A1F31400BACF923D3735F60C488C859310178248"
+  },
+  {
+    "path": "assets\\media\\icons\\brands\\UTD.svg",
+    "sha256": "F6904A39270CE8DF6AC08838B986B1E568D694198961D6A9D788312773726A86"
+  },
+  {
+    "path": "assets\\scss\\template.scss",
+    "sha256": "D96C396A1A78EC62637E41A785D4BF82CE91A8E3E9CAC402FC82CA5B00BE6F5C"
+  },
+  {
+    "path": "config\\_default\\config.yaml",
+    "sha256": "9D44542BF2B521F0437094861B6C659C3B6926440AABB9FC6898F59BF8ADF0E8"
+  },
+  {
+    "path": "config\\_default\\languages.yaml",
+    "sha256": "FD2AE7C2486926D4D7E43DCD227E8DC5AB62CCB63DBCFD4359FABF947E1B42DC"
+  },
+  {
+    "path": "config\\_default\\menus.yaml",
+    "sha256": "7138D2146D3C7F0C55A20D2D292F20382C27760BE89F3F8989136539C90A8FA3"
+  },
+  {
+    "path": "config\\_default\\params.yaml",
+    "sha256": "616182420CA37A9735A11C52A9D6C5DEE013401E4ACBB74F01275ED41ED74898"
+  },
+  {
+    "path": "content\\admin\\index.md",
+    "sha256": "33A72CC5D6762CAB3D8FC245363218C03610B70472B159A81D1D8D93B2EDC562"
+  },
+  {
+    "path": "content\\authors\\admin\\_index.md",
+    "sha256": "61DEBF17FBE80177A919C1073EC5D2CBD0B787BF1F999A6D56635FB874CFFD2D"
+  },
+  {
+    "path": "content\\authors\\admin\\avatar.jpg",
+    "sha256": "6F4CA06E59EAB190DD84C399EDD6EC85B9D1CE492EEDF6956649292E4A3D57DC"
+  },
+  {
+    "path": "content\\contact\\contact.md",
+    "sha256": "1B37FDB25C20AD94236C6EED1389CAD1769B4BA8B6EEAF926D2065B6139B0578"
+  },
+  {
+    "path": "content\\contact\\index.md",
+    "sha256": "8CBDE3A5911532824D7976636481E916106BCB6D873F23731C2D9DCA9D1257A0"
+  },
+  {
+    "path": "content\\datasets\\_index.md",
+    "sha256": "78B5F96A7A39D91A63473720F7DBF08A12EC668C79C2540127F117B85B9DF98B"
+  },
+  {
+    "path": "content\\datasets\\Shengli-model\\featured.png",
+    "sha256": "3A0443368ACFF4CBD40689F61FA179925A7C3BF5D765588BA170747AB7795D0C"
+  },
+  {
+    "path": "content\\datasets\\Shengli-model\\index.md",
+    "sha256": "E3B1DD9EAF6C9ECEFA2D618028E0320A93E90683BE3B4FD62B1407AA4F2E2837"
+  },
+  {
+    "path": "content\\datasets\\Shengli-model\\shengli_model.png",
+    "sha256": "FEE5E96339DFCBE8F3B5919A45A086511D5A0B0D01ED0253F3AF58A9E573D668"
+  },
+  {
+    "path": "content\\datasets\\Velocity-and-attenuation-models-of-BP-Gas-Reservoir\\featured.png",
+    "sha256": "8F456291C3E1ADE1804A050CC02B486C5F9996E859E0C48AFDB7C25C0C0355BE"
+  },
+  {
+    "path": "content\\datasets\\Velocity-and-attenuation-models-of-BP-Gas-Reservoir\\index.md",
+    "sha256": "AADD2F181B169247AB2D5ECBDE2AAF92B5350BA1FF44D080FB3EFD68549F05A8"
+  },
+  {
+    "path": "content\\datasets\\Velocity-and-attenuation-models-of-BP-Gas-Reservoir\\qp.png",
+    "sha256": "61B534EEEB06D7EEE98E63207F0FB208B94D3BEC5FB53D866600B5083BEF0D0C"
+  },
+  {
+    "path": "content\\datasets\\Velocity-and-attenuation-models-of-BP-Gas-Reservoir\\vp.png",
+    "sha256": "8F456291C3E1ADE1804A050CC02B486C5F9996E859E0C48AFDB7C25C0C0355BE"
+  },
+  {
+    "path": "content\\home\\about.md",
+    "sha256": "1F69CCFDB868A03EB24F01B9D4E8ABACA7048D6E6975FE5ECEF9AA7AC877FEE9"
+  },
+  {
+    "path": "content\\home\\accomplishments.md",
+    "sha256": "4F9152990E50D14C8F316C153D00E729600B6A1B0BDFB89E791DABB4FFC2D746"
+  },
+  {
+    "path": "content\\home\\awards.md",
+    "sha256": "D271DE74BBA954022440CA1AE6FB209B072755815C93C4677C80669BAA88C19F"
+  },
+  {
+    "path": "content\\home\\contact.md",
+    "sha256": "CE4CB9C5ADECE0F249A4B86D11B3E50AB55533AA36056A31C2915EFE5F8EAD98"
+  },
+  {
+    "path": "content\\home\\experience.md",
+    "sha256": "8E19C2ECC1D45E8F36CAAE1BA7CF7555CD48F2BC4283C8B3EF8BF007983E774B"
+  },
+  {
+    "path": "content\\home\\Honorary.md",
+    "sha256": "E0F548649668FB12707A23018DFC3F6F245713CB015D25EB64E8E02B463A8D83"
+  },
+  {
+    "path": "content\\home\\index.md",
+    "sha256": "57FE379DDA8A70A46BC7EC11731E7F5025AE52A3852B503DB7C5EE2447587842"
+  },
+  {
+    "path": "content\\people\\index.md",
+    "sha256": "64DFEAD37291C5938911CE1C5351722D1D976BB55295BEB3C28386BEA86F814A"
+  },
+  {
+    "path": "content\\people\\people.md",
+    "sha256": "A179EE3AB76FB67CCB8858D2E87E412C432B211EA9E32F877997465AC50D64DB"
+  },
+  {
+    "path": "content\\people\\people.assets\\20230219133629.jpg",
+    "sha256": "F74AEBAEC26CA88DDE19B4803FB713DDA07746082D736319B2E1986DC3F5BCD6"
+  },
+  {
+    "path": "content\\people\\people.assets\\20230219135421.jpg",
+    "sha256": "8951AB2738B26494B51A8BB9F8F744C751B1EA89529E3D31571AF60D8549BB9D"
+  },
+  {
+    "path": "content\\people\\people.assets\\20230219143243.jpg",
+    "sha256": "BF98900B7894B5BF8FBAE74E70E2DEA981B1148C67EFC0BAE6EF93BD6B356249"
+  },
+  {
+    "path": "content\\people\\people.assets\\20230219144815.jpg",
+    "sha256": "4065B9AEBBE7F57739417B13236934874B219FD6A813B5D8D4B29E1BAC7E959B"
+  },
+  {
+    "path": "content\\people\\people.assets\\20230220171640.jpg",
+    "sha256": "7C7DA965994EC8BB4E899DE50182EF78E0C6CBA2986875399E56E2C171E85220"
+  },
+  {
+    "path": "content\\people\\people.assets\\461fdab4a6846b6a521fcc003396f28.jpg",
+    "sha256": "BE5C6C841B8C72EB0D24E1B82D69AA9692830FE6B6A941922855A49F405F7F2C"
+  },
+  {
+    "path": "content\\people\\people.assets\\6fd10b5b64e11d4ab51103b548af750.png",
+    "sha256": "30D88068D8AA022DF82B9679A27259B5A796685433B97C7A88A6F2F75033B158"
+  },
+  {
+    "path": "content\\people\\people.assets\\84c2fdffc57eee258f60937f3bff68b_看图王.jpg",
+    "sha256": "DDEB4273CBBDC9F69B57458C429C146876AFA0555F06460B4B98ED9CD1CF8F69"
+  },
+  {
+    "path": "content\\people\\people.assets\\84c2fdffc57eee258f60937f3bff68b.jpg",
+    "sha256": "B8B55949A4D1889F46B421CC35EF05B6E9481DDB5017859D6295DE5436C0F4D1"
+  },
+  {
+    "path": "content\\people\\people.assets\\曹炫昊.jpg",
+    "sha256": "45006CDA3A777C717FC0BE30AC844E6229CDD3541755713EE019357DA1D4B886"
+  },
+  {
+    "path": "content\\people\\people.assets\\葛小川.jpg",
+    "sha256": "5B7403FAEACF6396F5282B659D6C69AD2754E51A842302B88D7F898D93D09A2F"
+  },
+  {
+    "path": "content\\people\\people.assets\\刘丹雯.jpg",
+    "sha256": "4CEEAD6E5766ACD67C58683A11BC6DCC259929E085805642AF0ED3B7423E71E8"
+  },
+  {
+    "path": "content\\people\\people.assets\\刘鑫.jpg",
+    "sha256": "9A6B8F51D99F285BE997660C9803ACFD91DE90891FD682EF0D21FBEB0EBDDF6B"
+  },
+  {
+    "path": "content\\people\\people.assets\\任艳丽.jpg",
+    "sha256": "3D9F299A5033CB43701CA11FD29EE25F33BD315567E230C1324AB88C0F81475D"
+  },
+  {
+    "path": "content\\people\\people.assets\\微信图片_20230504182152_看图王.jpg",
+    "sha256": "F030124CCAF07F16E01F0188CA0D77A77EA63DBE13FA7055D4C1CBE96478F3C9"
+  },
+  {
+    "path": "content\\people\\people.assets\\张毅.jpg",
+    "sha256": "ABD726F6942A0D9F89D19BFB49F29A18AFDC7916D06AE74E041D47DC0FF870BB"
+  },
+  {
+    "path": "content\\people\\people.assets\\a508fd1e6aa5c49969a20fcc02fd152.jpg",
+    "sha256": "1BF08F220E39030F90D5F3F4608608739D694C4304CDDC4473195F52593339AF"
+  },
+  {
+    "path": "content\\people\\people.assets\\b2aa1c1db26f375220b51a55e951310.jpg",
+    "sha256": "A30D00BABC7E7887830FD4A1C39F2926925208E3019AC5220C54D8351D12EB65"
+  },
+  {
+    "path": "content\\people\\people.assets\\cbaa3a094e53a3e05e3adcb8e8ab8d8.jpg",
+    "sha256": "9F2930252867D3DF521C590A227A37978D16CC9C86961B1389DB928FD0FCA8B9"
+  },
+  {
+    "path": "content\\people\\people.assets\\fd0a1b32f44812d3b1ab952abcf0382_看图王.jpg",
+    "sha256": "B02FF41F1234C2B3036FDD9358457D542830D8F62611BD660BBA418611A68D33"
+  },
+  {
+    "path": "content\\people\\people.assets\\grouplogo.png",
+    "sha256": "01760BD4585CFABE60191A03786DBC07ED376B166329B5E6524F1595EE3ED3A2"
+  },
+  {
+    "path": "content\\people\\people.assets\\Guihu Fan.jpg",
+    "sha256": "84AED93AE61FE386EE00A0C49AD2D3C7DD7AC1362E8A1AE66A978BB926D03CFF"
+  },
+  {
+    "path": "content\\people\\people.assets\\guowenjing - 看图王.jpg",
+    "sha256": "6BD1F89329A2DBF7C5C737F3110999CBCA54522A82A009F1DE9F5DC1B45270B3"
+  },
+  {
+    "path": "content\\people\\people.assets\\guowenjing.jpg",
+    "sha256": "A42D9DA494833A8316BD77AF1963D43C942B002F64C0B1C86E16EF9108105B87"
+  },
+  {
+    "path": "content\\people\\people.assets\\image-20230218185042951.png",
+    "sha256": "59E762C433BCB71197B833271115BBB511EFA4D2C168D0D50B2848CA711560E5"
+  },
+  {
+    "path": "content\\people\\people.assets\\image-20230218220503532.png",
+    "sha256": "81130EE3AA9B9DB52DD502C6E812D261209FD9ADFE1BDA32603286F7A7D4A784"
+  },
+  {
+    "path": "content\\people\\people.assets\\image-20230218222444995.png",
+    "sha256": "70B8E869D84E133CEE540BCAE0BB17A4122C0F0708FD7BD13510FE2DD363A3EE"
+  },
+  {
+    "path": "content\\people\\people.assets\\image-20230218222926546.png",
+    "sha256": "3658C35B0F86B80DC547592C5893790299A34287597208C2B84B5699B67489F3"
+  },
+  {
+    "path": "content\\people\\people.assets\\image-20230219124536953.png",
+    "sha256": "599FBEA3B964FFD5E967D7496B6433BE376688E1F5533B907AE7D0788A1406F2"
+  },
+  {
+    "path": "content\\people\\people.assets\\liuyang.jpg",
+    "sha256": "5DF8F89F0336A9052F1EE376231602AFE4BE7CE3162C0365BAE2EC127A7D91CB"
+  },
+  {
+    "path": "content\\people\\people.assets\\panjianjun.jpg",
+    "sha256": "2C3C1F651EA1EAC6E9FDB331AB6076CDAD8614390D53044A4D486CDCDB0ADF98"
+  },
+  {
+    "path": "content\\people\\people.assets\\sulaiyuan1.jpg",
+    "sha256": "E6968589048BAD9DAFCF64FDC3F9AB7304950C345B552EA6C21FD82E0FBE7F92"
+  },
+  {
+    "path": "content\\people\\people.assets\\sunjiaxing.jpg",
+    "sha256": "15E120FB13A12BFA738CB1ECE6314869EDC68E328274AA4D8729FD1CBCDC1EE3"
+  },
+  {
+    "path": "content\\people\\people.assets\\wangzhaoxing.jpg",
+    "sha256": "B016FC77BB7EDE08B8F1F3AF3239FF05DE19C28F5B49A1A7C24598FB8C7294FD"
+  },
+  {
+    "path": "content\\people\\people.assets\\weizihan.jpg",
+    "sha256": "DDF210E319F961B537DCC5F0EC1DF550E4E7D09A5A9A5F7A611A58FFFDA518D5"
+  },
+  {
+    "path": "content\\people\\people.assets\\wenxiaokang.jpg",
+    "sha256": "BB36A0E1911F538E4A02673D5CFDF151FCBAB63BFF2C7FBB8F014759FF8554F7"
+  },
+  {
+    "path": "content\\people\\people.assets\\yanxin.jpg",
+    "sha256": "08DF639179E6AFF1457D2878A7A2B7751CEAD7EB1C3C032037D82FBDAB40D448"
+  },
+  {
+    "path": "content\\people\\people.assets\\yukunpeng.jpg",
+    "sha256": "877723200FB2A3DD3044E3D7C51AD69E94C42EC7C9748B65E2EC16528D21458B"
+  },
+  {
+    "path": "content\\people\\people.assets\\zuoqi.jpg",
+    "sha256": "2A8D261BE312740BEEA7659AEFD82F8680F2CCFD0F6591816630FD7E48BFF188"
+  },
+  {
+    "path": "content\\post\\_index.md",
+    "sha256": "675DD4C13570280B28A9048BA4E4AD0B415D7F760849C1FB0D9C86C7026E8E7E"
+  },
+  {
+    "path": "content\\post\\A special issue on Geoscience\\content.md",
+    "sha256": "1D2D53B7D8C48B07F2622B089B14C8716609FC42B44BCB19EF52871A6D6BFF5D"
+  },
+  {
+    "path": "content\\post\\A special issue on Geoscience\\index.md",
+    "sha256": "2F7B7A05288A2C8CE7495EE996E04FF8485195E6335112435C5175EE3017D869"
+  },
+  {
+    "path": "content\\post\\Special Issue Fractional Equations and Calculation Methods in Exploration Seismology\\content.md",
+    "sha256": "31497E2719F2970C6F243A1554DF302064BCDE01DD3F786CB1A93D3F42821B9D"
+  },
+  {
+    "path": "content\\post\\Special Issue Fractional Equations and Calculation Methods in Exploration Seismology\\index.md",
+    "sha256": "0CBA219C44D45688648BE76D0D70289E288B50A08DC7909A3835F889084000EA"
+  },
+  {
+    "path": "content\\post\\Special Topic Cutting-edge techniques of seismic imaging and model building in attenuating and anisotropic media\\content.md",
+    "sha256": "72C23D682F3D8DA600EC1B4B9663BC9A3A5E92AA78CFC6845C5D5D182241D532"
+  },
+  {
+    "path": "content\\post\\Special Topic Cutting-edge techniques of seismic imaging and model building in attenuating and anisotropic media\\index.md",
+    "sha256": "106E03F7806111E4715EDD3B7853442D4F7CD6189689389BBDF04C4C614746E1"
+  },
+  {
+    "path": "content\\post\\The State-of-Art Techniques of Seismic Imaging\\content.md",
+    "sha256": "23F6BC298F7988AFCE7C9D8BBB7DC8CCA2622F35720449ADDC8DDD654C747812"
+  },
+  {
+    "path": "content\\post\\The State-of-Art Techniques of Seismic Imaging\\index.md",
+    "sha256": "06A8C328B0D0A5BE29BE212E4B859398CB5A0188538B3BCB35ED3DB75C669298"
+  },
+  {
+    "path": "content\\post\\傅承义青年科技奖\\content.md",
+    "sha256": "E4BE12FD91BC225B7DB7AE85492452D01A380D72FCFED6862BAFF9CAB1C53820"
+  },
+  {
+    "path": "content\\post\\傅承义青年科技奖\\index.md",
+    "sha256": "7067130B9CD2C1737B8F3756A6E7E92839AA1018C4065EDA65775EA9417F84C7"
+  },
+  {
+    "path": "content\\post\\傅承义青年科技奖\\content.assets\\image-20231113105639881.png",
+    "sha256": "E95434AAA44A9705543AF3F81B226EBECE3478C84B903CA0C0B41C3BCD27A2E3"
+  },
+  {
+    "path": "content\\publication\\index.md",
+    "sha256": "91BBB278B078B01FBF5FA868D53D14135D71497F487D4307DAB0B29D917487A3"
+  },
+  {
+    "path": "content\\publication\\publications.md",
+    "sha256": "7E18AEB78979157B09C4D56C33AF4EB3A3CFE7DF3E7373400C1EAF657481E86C"
+  },
+  {
+    "path": "content\\research\\3D Viscoacoustic RTM.md",
+    "sha256": "92AE7D7DC173DD9953992369F847EE43158D87CD2DA7414BF6E394E9123ED9FF"
+  },
+  {
+    "path": "content\\research\\Anisotropic wavefield separation.md",
+    "sha256": "8BBA4C1128ADAD6459ACF734E63653A5E646C2B63C33960F8AE0858998576C74"
+  },
+  {
+    "path": "content\\research\\Earthquake rupture imaging.md",
+    "sha256": "FBD38B07BFDCE0E0C4105C49E7D8A2D6FF9F67643CC57B5B58768D3783326CDB"
+  },
+  {
+    "path": "content\\research\\Estimating p wave velocity and attenuation structures using full waveform inversion.md",
+    "sha256": "CD2B8842792AD73331A50AD0204A954C11FC8C364F4EEB63F14C9E0F75A7EA0C"
+  },
+  {
+    "path": "content\\research\\Gaussian beam imaging.md",
+    "sha256": "4DCB0E940F206B3A07B3F4591BBAB9C15D88B98629F1F63CEE286E1593A910E2"
+  },
+  {
+    "path": "content\\research\\index.md",
+    "sha256": "8B74979AE68AD7621D19A1FBCA0A030E07CC94DB327813F0E0E80E3EDD6E73FE"
+  },
+  {
+    "path": "content\\research\\Intelligent AVA inversion.md",
+    "sha256": "E23E718E07790E87A4B3964B2ABFC42D341BBF290DC6A9F56E2E8661E2CB5CA0"
+  },
+  {
+    "path": "content\\research\\Least-squares reverse time migration (LSRTM).md",
+    "sha256": "133DCBD0B27619E7C8FAC1AEB2285C7F280A645183A796ACBCF68AC654025F59"
+  },
+  {
+    "path": "content\\research\\Locating and monitoring microseismicity.md",
+    "sha256": "2E6985CA9CA1B6E37F10CF73217BD41F69275AD7AD7F5BF48C530D6D1870862F"
+  },
+  {
+    "path": "content\\research\\Outlier noise attenuation method using compressive sensing.md",
+    "sha256": "E734A6E1AEC721086E55298C09470E0ECB1D583DF3D9657E8755CCE32140A1CD"
+  },
+  {
+    "path": "content\\research\\Reflection and diffraction separation.md",
+    "sha256": "FFBA5A7E4992AC5C175DA727FB0C77FF275BDCBCA61BD47829321DA3DDFB4DC1"
+  },
+  {
+    "path": "content\\research\\Viscoacoustic modeling in the Loess Plateau.md",
+    "sha256": "79D98BB64760D8A88CDB63BD7E54429FBD86285B395F56B0CE7E1481E94BFE75"
+  },
+  {
+    "path": "content\\research\\Viscoacoustic modeling.md",
+    "sha256": "F83A5637AD32F0DDA2CEFCF40BF380FBD859BE1C64D5DDDE2C0358AAC7E1A6CF"
+  },
+  {
+    "path": "content\\research\\Wave field modeling and sensitive kernel analysis.md",
+    "sha256": "AC0AF5D8E9AE66B51393402ED2C4F81D35B323BFCBC5BA9A178520A530F527D6"
+  },
+  {
+    "path": "content\\research\\Wave mode separation in the poroelastic medium.md",
+    "sha256": "A5AED09B9C165A8B48CD60F56D15C03E789E5E1293F744C177B7B239854565B8"
+  },
+  {
+    "path": "content\\research\\3D Viscoacoustic RTM.assets\\featured.png",
+    "sha256": "089D99376C70E6A055C962D00DD30ECCFD5062402C2DBC07A9D84A9D375A7B0C"
+  },
+  {
+    "path": "content\\research\\Anisotropic wavefield separation.assets\\featured1.png",
+    "sha256": "2733C1077F35FFF1D82A076E9DC99FA7632AFBBCCDC44074F983670B8CBB8275"
+  },
+  {
+    "path": "content\\research\\Earthquake rupture imaging.assets\\featured.png",
+    "sha256": "97A13F021189DF5B24A7598EAFCF55F92FAFBCE543244266DF2D14AF470ADB48"
+  },
+  {
+    "path": "content\\research\\Estimating p wave velocity and attenuation structures using full waveform inversion.assets\\featured.png",
+    "sha256": "5DFD96A0DD8B403F56E93E6D9DE4A9124C621ACFAC1B31DAFC81F280270B4B4A"
+  },
+  {
+    "path": "content\\research\\Gaussian beam imaging.assets\\featured.png",
+    "sha256": "38487850FAE2CF7124B9060DA4EF9D7735B49F5EA78ECE56D27E81564166E25E"
+  },
+  {
+    "path": "content\\research\\Intelligent AVA inversion.assets\\featured.png",
+    "sha256": "F0E8888A784463EFEA25569CB427D98A367F85CEF323B660CF26032DD5AB0F66"
+  },
+  {
+    "path": "content\\research\\Least-squares reverse time migration (LSRTM).assets\\featured.png",
+    "sha256": "475F8BE21474F49CCFE7DCA0BCC6F48AD356E384DEF0B4FEB29CF3FCBA5EAD73"
+  },
+  {
+    "path": "content\\research\\Locating and monitoring microseismicity.assets\\featured.png",
+    "sha256": "F13C6BF01D7CB67589F6FA3B49149555C74C9D24EBA7017847425E8A9155E591"
+  },
+  {
+    "path": "content\\research\\Outlier noise attenuation method using compressive sensing.assets\\featured.png",
+    "sha256": "EF699104B457656A6766A028D49EFDB866C3401FA80F3E048F7BFD5AFF00F886"
+  },
+  {
+    "path": "content\\research\\Reflection and diffraction separation.assets\\featured.png",
+    "sha256": "FEF3B696B7B0EBCD90DD64F5B3B3CA8583CD8D7C95BE316808F0025B753ACE46"
+  },
+  {
+    "path": "content\\research\\Reflection and diffraction separation.assets\\featured2.png",
+    "sha256": "847C965EA2748D442C05993509E263D6ADC4F0F0CFA070B59816E13518BFD180"
+  },
+  {
+    "path": "content\\research\\Viscoacoustic modeling in the Loess Plateau.assets\\featured1.png",
+    "sha256": "1E50E719BBB907AA379BFD6BE588CF6F1E492C0642325A6B6040E6AA1F3EDEB0"
+  },
+  {
+    "path": "content\\research\\Viscoacoustic modeling.assets\\featured3.png",
+    "sha256": "AB65A6E56EC0EAD17C85A3D75735079A3BA8E4D929A7CA4F545D116105CAA84B"
+  },
+  {
+    "path": "content\\research\\Wave field modeling and sensitive kernel analysis.assets\\图片1.png",
+    "sha256": "474EF459601A9162D758978ACFDA08F7EE1580CF4A6AA3E2FB59056C699B70C6"
+  },
+  {
+    "path": "content\\research\\Wave field modeling and sensitive kernel analysis.assets\\图片2.png",
+    "sha256": "8EB7DACFE7700E034B64104DF7FBC42EBE5453F0CFC54277224897ACA00EEA66"
+  },
+  {
+    "path": "content\\research\\Wave field modeling and sensitive kernel analysis.assets\\图片3.png",
+    "sha256": "C564465F0B3D7B50DAEA68155A2A65E468FD0EA3246E7C4190DC82A4532CFEB3"
+  },
+  {
+    "path": "content\\research\\Wave field modeling and sensitive kernel analysis.assets\\图片4.png",
+    "sha256": "4EB4E23A404AE85212B2563161206931FB7B25185706B59E1FF19A6C083E838F"
+  },
+  {
+    "path": "content\\research\\Wave field modeling and sensitive kernel analysis.assets\\图片5.png",
+    "sha256": "D428C0F488138F3CF61E21F03A8E6E9C29DF4E4F91964043765883CEE6A91F1A"
+  },
+  {
+    "path": "content\\research\\Wave field modeling and sensitive kernel analysis.assets\\snap_2.gif",
+    "sha256": "380A0EE07302C18A7839F37BBD1031D505A6F9B582ECE4DB59E9C640D6914378"
+  },
+  {
+    "path": "content\\research\\Wave mode separation in the poroelastic medium.assets\\featured1.png",
+    "sha256": "3985B3C6D4FC2FF89AD52FC14D92098FC703EF3B13A7152A0526295858745286"
+  },
+  {
+    "path": "static\\baidu_verify_codeva-nZrfcT6VcU.html",
+    "sha256": "E4C1B73A3C4A0E63B1E25263DD70A60A97424876ED3EC389C2F70132F69F092D"
+  },
+  {
+    "path": "static\\baidu_verify_codeva-xIO5wtJyHm.html",
+    "sha256": "87BEC294E3D1F5971D823366C430061B69AB3D10898C8ED486B11C3CFE3976AF"
+  },
+  {
+    "path": "static\\uploads\\.gitkeep",
+    "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+  },
+  {
+    "path": "static\\uploads\\resume.pdf",
+    "sha256": "ED98186366819A5899E1231ACD6DF11FD4DF3730922156CDD3D6CB8F1BF2C17C"
+  },
+  {
+    "path": ".editorconfig",
+    "sha256": "52A36D30A82A5DDCD033AC9F51A63101D05A8B9BA5640C65F3EEAFBDE7912F0B"
+  },
+  {
+    "path": ".gitignore",
+    "sha256": "FE37EE2039BA3C433CD1E6ED8AE67DEE10FA049BEA514BAEBD1948F02455A1FD"
+  },
+  {
+    "path": "go.mod",
+    "sha256": "2C0EB9451F3E0298A076B8CA648D27666367FF1AAA8BFD490FB0FB03C01E879A"
+  },
+  {
+    "path": "go.sum",
+    "sha256": "268E7E970FCEB5E4A0134A82BA7ECF7F9DB7371701C6121D02416A64F0C5A796"
+  },
+  {
+    "path": "LICENSE.md",
+    "sha256": "AEC15E7FC5A0AF8557D378E4C528DF7B22D097FB496ADA2E02B7BDB96FBF3A9A"
+  },
+  {
+    "path": "netlify.toml",
+    "sha256": "3CC68767F3BF617EF84B5D7D265B644F4E4EDAFCEE5E63EC004A0DADBF7703D1"
+  },
+  {
+    "path": "README.md",
+    "sha256": "E83AEF324B10A25BDA643132C484F1FAA88721D9F3751555C45B9B543B9F1EA2"
+  },
+  {
+    "path": "theme.toml",
+    "sha256": "C14BC4FEE5AC032B03CBB975C323BDA1B26ED8655F1F2D6D06D7015D54E862B6"
+  }
+]

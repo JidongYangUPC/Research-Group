@@ -51,10 +51,7 @@ projects:
 
 
 
-<div style="text-align: center;">
-  <img src="./Intelligent AVA inversion.assets/featured.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
-</div>
-<br />
+{{< research-figure src="Intelligent AVA inversion.assets/featured.png" alt="Intelligent AVA inversion — research figure" >}}
 
 The amplitude-variation-with-angle (AVA) inversion for seismic data has been widely used in hydrocarbon detection of exploration seismology. Traditional AVA analysis estimates the elastic parameters, i.e., P-wave velocity, S-wave velocity and density, using the AVA intercept, gradient, and higher-order AVA terms by solving either a linear or nonlinear inverse problem. Recently, the deep learning has been introduced to the AVA inversion to describe the complicated nonlinear relation between seismic data and elastic parameters. But because of sparse well locations, the application of deep-learning based AVA inversion is limited by few well-log label sets in production. To mitigate this problem, we present a convolution neural network (CNN) trained by pseudo-well data for AVA inversion. By considering spatial correlation and cross-correlation of elastic parameters, we first generate a large number of realistic pseudo-well logs. Then, the angle-domain common-image gathers are computed as source wavelet convolved with reflectivity series, and then are used to train a CNN to predict elastic parameters. Numerical tests for both synthetic and field data demonstrate that the pseudo-well based CNN AVA inversion not only can accurately and efficiently estimate P-wave velocity, S-wave velocity and density, but also has a potential to alleviate the inter-parameter crosstalk artifacts, in comparison with traditional linear and nonlinear AVA inversion methods.
 

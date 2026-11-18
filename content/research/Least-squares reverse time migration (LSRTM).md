@@ -49,11 +49,8 @@ projects: []
 #slides: example
 ---
 
-<div style="text-align: center;">
-  <img src="./Least-squares reverse time migration (LSRTM).assets/featured.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
-</div>
+{{< research-figure src="Least-squares reverse time migration (LSRTM).assets/featured.png" alt="Least-squares reverse time migration (LSRTM) — research figure" >}}
 
-<br />
 
 We present an elastic least-squares imaging method for tilted transversely isotropic media and apply it to land multicomponent and marine pressure data. Unlike traditional RTM, we use the relative perturbations to the product of density and squared axial (compressional/shear) velocities as reflectivity models (Δln C33 and Δln C55), and estimate them by solving a linear inverse problem. Numerical experiments illustrate that subsurface reflectors can be well resolved in adjoint images for land multicomponent data, because of the presence of both P- and S-waves in seismograms. Least-squares migration helps to further improve spatial resolution and image amplitudes. Since there are no direct S-waves in marine streamer data, adjoint RTM images of Δln C55 are mainly resolved with the converted S-waves and are not as good as those in Δln C33 images. By approximating the Hessian inverse, least-squares migration allows us to take advantage of the weak converted PSP-waves and improve the Δln C55 image quality. 
 

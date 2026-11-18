@@ -17,13 +17,11 @@ design:
   columns: '1'
 ---
 
-<br />
 
 A special issue of [*Fractal and Fractional*](https://www.mdpi.com/journal/fractalfract) (ISSN 2504-3110). This special issue belongs to the section "[Mathematical Physics](https://www.mdpi.com/journal/fractalfract/sections/Mathematical_Physics)".
 
 Deadline for manuscript submissions: **27 June 2024** | Viewed by 134
 
-<br />
 
 ## Special Issue Information
 
@@ -55,7 +53,6 @@ Submitted manuscripts should not have been published previously, nor be under co
 
 Please visit the [Instructions for Authors](https://www.mdpi.com/journal/fractalfract/instructions) page before submitting a manuscript. The [Article Processing Charge (APC)](https://www.mdpi.com/about/apc/) for publication in this [open access](https://www.mdpi.com/about/openaccess/) journal is 2700 CHF (Swiss Francs). Submitted papers should be well formatted and use good English. Authors may use MDPI's [English editing service](https://www.mdpi.com/authors/english) prior to publication or during author revisions.
 
-<br />
 
 ## Keywords
 
@@ -64,13 +61,10 @@ Please visit the [Instructions for Authors](https://www.mdpi.com/journal/fractal
 - calculation of fractional equation
 - seismic modeling, imaging and inversion
 
-<br />
 
 ## Published Papers
 
 This special issue is now open for submission.
-
-<br />
 
 
 A detailed introduction can [click this link.](https://www.mdpi.com/journal/fractalfract/special_issues/A77GX60FC5)

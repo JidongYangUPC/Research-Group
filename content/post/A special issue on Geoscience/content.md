@@ -17,7 +17,6 @@ design:
   columns: '1'
 ---
 
-<br />
 
 Exploration seismology is a powerful tool for near-surface detection, oil/gas and mineral exploration, geothermal study, and geological disaster early warning. It can provide both high-resolution structural and lithological information after careful and systematic data acquisition, processing, and interpretation. With the rapid development of high-performance computing and the increasing challenges of deep and ultradeep resource exploration and near-surface environmental monitoring, the theory and methods of exploration seismology have made great progress in the past three decades. This Special Issue invites contributions from a broad range of theoretical innovations, optimized methodology, and case studies in exploration seismology. The main contents include the following aspects:
 

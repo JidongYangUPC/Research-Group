@@ -1,5 +1,5 @@
 ---
-title: Velocity-and-attenuation-models-of-BP-Gas-Reservoir
+title: Velocity and attenuation models of the BP gas reservoir
 subtitle: 
 summary: This is a gas reservoir model with both P-wave velocity and Qp parameters. 
 authors:
@@ -9,6 +9,8 @@ categories: []
 projects: []
 date: "2019-02-05T00:00:00Z"
 lastMod: "2019-09-05T00:00:00Z"
+image:
+  preview_only: true
 ---
 
 This is a gas reservoir model with both P-wave velocity and Qp parameters. We build this model by modifying the right part of the original BP model, which can be used for seismic modeling, migration and inversion study. 
@@ -17,13 +19,16 @@ The model files are RSF format. The detailed RSF format is shown in the Madagasc
 
 Access to the data and a detailed description can [click this link.](https://github.com/JidongYangUPC/Velocity-and-attenuation-models-of-BP-Gas-Reservoir1.0)
 
-![png](./vp.png)
+![P-wave velocity model of the BP gas reservoir](./vp.png)
 
 
-![png](./qp.png)
+![P-wave quality factor (Qp) model of the BP gas reservoir](./qp.png)
+
+## References
 
 When using this model, please cite the following references:
 
+```bibtex
 @article{10.1093/gji/ggy323,
     author = {Yang, Jidong and Zhu, Hejun},
     title = "{A time-domain complex-valued wave equation for modelling visco-acoustic wave propagation}",
@@ -38,9 +43,11 @@ When using this model, please cite the following references:
     url = {https://doi.org/10.1093/gji/ggy323},
     eprint = {https://academic.oup.com/gji/article-pdf/215/2/1064/25530487/ggy323.pdf},
 }
+```
 
 
 
+```bibtex
 @article{doi:10.1190/geo2018-0050.1,
 author = {Jidong Yang and Hejun Zhu},
 title = {Viscoacoustic reverse time migration using a time-domain complex-valued wave equation},
@@ -53,8 +60,10 @@ doi = {10.1190/geo2018-0050.1},
 URL = {https://doi.org/10.1190/geo2018-0050.1},
 eprint = {https://doi.org/10.1190/geo2018-0050.1}
 }
+```
 
 
+```bibtex
 @article{doi:10.1190/geo2018-0804.1,
 author = {Jidong Yang and Hejun Zhu},
 title = {Viscoacoustic least-squares reverse time migration using a time-domain complex-valued wave equation},
@@ -63,12 +72,14 @@ volume = {84},
 number = {5},
 pages = {S479-S499},
 year = {2019},
-doi = {10.1190/geo2018-0804.1},=
+doi = {10.1190/geo2018-0804.1},
 URL = {https://doi.org/10.1190/geo2018-0804.1},
-eprint = https://doi.org/10.1190/geo2018-0804.1}
+eprint = {https://doi.org/10.1190/geo2018-0804.1}
 }
+```
 
 
+```bibtex
 @article{https://doi.org/10.1029/2019JB019129,
 author = {Yang, Jidong and Zhu, Hejun and Li, Xueyan and Ren, Li and Zhang, Shuo},
 title = {Estimating P Wave Velocity and Attenuation Structures Using Full Waveform Inversion Based on a Time Domain Complex-Valued Viscoacoustic Wave Equation: The Method},
@@ -83,3 +94,4 @@ eprint = {https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2019JB019129},
 note = {e2019JB019129 10.1029/2019JB019129},
 year = {2020}
 }
+```
